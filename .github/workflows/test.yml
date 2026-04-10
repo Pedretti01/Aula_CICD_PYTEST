@@ -1,4 +1,4 @@
-nome: Teste com pytest
+name: Teste com pytest
 
 on: [push, pull_request]
 
